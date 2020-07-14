@@ -1,0 +1,2 @@
+# Twitter_Sentiment_Analysis
+Twitter_Sentiment_Analysis uses Natural Language Processing techniques of text preprocessing(twitter handler removal, noise removal, tokenization & stemmation), feature engineering and TF-IDF vectorizer to classify tweets related to movies into types of sentiments(positive, negative, neutral). It uses Gaussian Naive Bayes, Logistics Regression, XGBoost, Random Forest ensemble & rbf kernel SVM to create ML models and check the accuracy for each model created.
